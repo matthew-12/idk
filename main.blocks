@@ -15,4 +15,4 @@
 . . . . . . . . . 3 . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="EN+]@0#[gYDC`}p6xQwo"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="EN+]@0#[gYDC`}p6xQwo"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="7@{p7LaMcDrAp::j3qUk"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="hVR!yx;CkLbgUVYjnpWW"><field name="VAR" id="K^KzKeL)`q`0qTn~:@dZ">mySprite</field></block></value></block></next></block></statement></block></xml>
